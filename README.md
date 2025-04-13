@@ -9,6 +9,6 @@ This repository showcases my work and learning in Software Testing, featuring mu
 ## 📌 Key Highlights
 - Manual test case design and execution.
 - Bug tracking and reporting.
-- Use of tools like Google Sheets, Word, and Jira.
+- Use of tools like Google Sheets and Jira.
 - Applied different testing techniques: functional, boundary value, equivalence partitioning, etc.
 - Real-world inspired scenarios and practical testing experience.
