@@ -1,4 +1,4 @@
-# Software-Testing-Route
+# Software-Testing
 This repository showcases my work and learning in Software Testing, featuring multiple projects that include test cases, bug reports, and structured testing documentation. These projects were completed individually and in teams as part of my Software Testing Diploma at Route Academy, combining both coursework and hands-on practical experience.
 
 ## 📁 Repository Structure
